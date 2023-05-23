@@ -1,6 +1,6 @@
 # CPU vs GPU (con CUDA)
 
-![CPU vs GPU](https://www.researchgate.net/publication/323281068/figure/fig1/AS:727952463495175@1550568800252/CPU-vs-GPU-architecture-each-blue-square-represents-one-core.ppm)
+![CPU vs GPU](https://www.cherryservers.com/v3/assets/blog/2020-11-25/01.png)
 
 ## Introducción
 
